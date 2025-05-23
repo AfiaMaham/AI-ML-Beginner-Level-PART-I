@@ -26,7 +26,7 @@ Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables s
 
 ---
 
-##  Difference Between AI, ML, and Deep Learning
+##  Difference Between AI, ML, and Deep Learning (DL)
 
 | Feature     | Artificial Intelligence (AI)         | Machine Learning (ML)                  | Deep Learning (DL)                          |
 |-------------|--------------------------------------|----------------------------------------|---------------------------------------------|
